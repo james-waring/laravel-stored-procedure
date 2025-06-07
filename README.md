@@ -1,7 +1,7 @@
 
 # Laravel Stored Procedure
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/zapo/laravel-stored-procedure.svg?style=flat-square)](https://packagist.org/packages/zapo/laravel-stored-procedure) [![Tests](https://img.shields.io/github/actions/workflow/status/zapo/laravel-stored-procedure/tests.yml?branch=main&style=flat-square)](https://github.com/zapo/laravel-stored-procedure/actions) [![Total Downloads](https://img.shields.io/packagist/dt/zapo/laravel-stored-procedure.svg?style=flat-square)](https://packagist.org/packages/zapo/laravel-stored-procedure)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/zapo/laravel-stored-procedure.svg?style=flat-square)](https://packagist.org/packages/zapo/laravel-stored-procedure) [![Total Downloads](https://img.shields.io/packagist/dt/zapo/laravel-stored-procedure.svg?style=flat-square)](https://packagist.org/packages/zapo/laravel-stored-procedure)
 
 A Laravel package for calling **MySQL/MariaDB stored procedures** with optional **pagination** and **model hydration**.
 
